@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 629609bfc8b740b4586a36209a81be19, type: 3}
+  m_Name: OrdinaryEnemyStats
+  m_EditorClassIdentifier: 
+  baseDamage: 1
+  damageIncreaseRate: 0.5
+  damageProgressionFunction: 1
+  baseReward: 1
+  rewardIncreaseRate: 0.5
+  rewardProgressionFunction: 0
+  baseHp: 10
+  hpIncreaseRate: 2.1
+  hpProgressionFunction: 0
+  baseSpeed: 1
+  speedIncreaseRate: 0
+  speedProgressionFunction: 0
